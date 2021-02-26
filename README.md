@@ -10,9 +10,12 @@
 [SNS](https://www.instagram.com/yinyin_anw/?hl=zh-tw)
 ![YinWar](https://pbs.twimg.com/media/Eoh0RCSUUAI_FwV?format=jpg&name=large)
 
+## 課堂作業
 ```C
 #include <stdio.h>
 int main()
 {
- printf("hello world");
+ printf("hello world\n");
+ return 0;
 }
+```
