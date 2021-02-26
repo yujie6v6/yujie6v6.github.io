@@ -9,3 +9,10 @@
 ## 我的寶貝CP
 [SNS](https://www.instagram.com/yinyin_anw/?hl=zh-tw)
 ![YinWar](https://pbs.twimg.com/media/Eoh0RCSUUAI_FwV?format=jpg&name=large)
+
+```C
+#include <stdio.h>
+int main()
+{
+ printf("hello world");
+}
